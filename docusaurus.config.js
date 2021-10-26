@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Tengzhen\' Site',
+  tagline: 'OSD 600 Lab-6',
   url: 'https://Yoda-Canada.github.io',
   baseUrl: '/tengzhen-docusaurus-sample/',
   onBrokenLinks: 'throw',
@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Tengzhen',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -55,8 +55,8 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
@@ -73,7 +73,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'About',
                 to: '/docs/intro',
               },
             ],
