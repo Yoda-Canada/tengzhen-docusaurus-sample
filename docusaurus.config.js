@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Tengzhen\' Site',
+  title: 'Tengzhen Sample Site',
   tagline: 'OSD 600 Lab-6',
   url: 'https://Yoda-Canada.github.io',
   baseUrl: '/tengzhen-docusaurus-sample/',
