@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktengzhen_website=self.webpackChunktengzhen_website||[]).push([[4074],{2141:function(s){s.exports=JSON.parse('{"allTagsPath":"/tengzhen-docusaurus-sample/blog/tags","slug":"/tengzhen-docusaurus-sample/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/tengzhen-docusaurus-sample/blog/tags/docusaurus"}')}}]);

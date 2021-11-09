@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktengzhen_website=self.webpackChunktengzhen_website||[]).push([[4082],{4373:function(e){e.exports=JSON.parse('{"permalink":"/tengzhen-docusaurus-sample/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
